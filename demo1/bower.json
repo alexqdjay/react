@@ -1,0 +1,20 @@
+{
+  "name": "demo1",
+  "version": "0.0.0",
+  "homepage": "https://github.com/alexqdjay/react",
+  "authors": [
+    "alex qian <alexqdjay@126.com>"
+  ],
+  "description": "react demo1",
+  "keywords": [
+    "react"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
